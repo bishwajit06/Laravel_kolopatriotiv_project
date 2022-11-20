@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lightbox-gallery .photos{
+    padding-bottom:20px
+}
+.lightbox-gallery .item{
+    padding-bottom:30px
+}
+
+.active{
+    color: rgb(123, 123, 238) !important;
+}
+
+.banner-section {background: url(../images/help-me-stop-putin2.jpg) no-repeat 50% 50%/cover;}
+.promo-section {background: url(../images/targeted-assistance-01.jpg) no-repeat 50% 50%/cover;}
